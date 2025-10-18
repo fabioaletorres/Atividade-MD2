@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-    	Bruno de Oliveira: 180062778
+    Bruno de Oliveira: 180062778
 	Fabio Alessandro Torres Santos: 200037170
 */
 
