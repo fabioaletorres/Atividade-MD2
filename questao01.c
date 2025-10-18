@@ -3,6 +3,11 @@
 #include <stdbool.h>  
 #include <string.h>    
 
+/*
+    	Bruno de Oliveira: 180062778
+	Fabio Alessandro Torres Santos: 200037170
+*/
+
  // Parte 1: Algoritmo de Euclides
 
 long long mdc(long long a, long long b) {
@@ -143,9 +148,7 @@ char codigoParaChar(int codigo) {
 
 int main() {
     long long N1, N2;
-    printf("Bruno de Oliveira: 180062778\n");
-    printf("Fabio Alessandro Torres Santos: 200037170\n");
-    printf("        CRIPTOGRAFIA RSA COMPLETO\n");
+    printf("        Criptografia RSA Completo\n");
     printf("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n");
 
     printf("\n[ Parte 1: Fatoraçao com P de Pollard ]\n");
